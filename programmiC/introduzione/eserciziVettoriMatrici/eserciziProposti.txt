@@ -1,0 +1,9 @@
+1. Scrivere un programma che inizializza un vettore monodimensionale di
+interi e poi copia il vettore in un altro vettore della stessa dimensione.
+2. Scrivere un programma che crei casualmente un array di 13 interi, lo
+stampi a video, lo ordini con ordinamento crescente e quindi lo stampi
+a video nuovamente
+3. Scrivere un programma che legga una matrice da tastiera, la stampa a
+video e libera la memoria
+4. Scrivere un programma che calcola il prodotto tra due vettori
+5. Scrivere un programma che calcola il prodotto tra due matrici

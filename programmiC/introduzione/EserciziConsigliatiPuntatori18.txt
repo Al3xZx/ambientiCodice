@@ -1,0 +1,12 @@
+1) Leggere e stampare un vettore (o fate altre operazioni sui vettori)
+usando l'aritmetica dei puntatori e il puntatore
+ vett invece della notazione con gli indici.
+
+2)  Provare a generare il segmentation fault e/o a modificare il valore di un'altra
+variabile (effetto collaterale)
+utilizzando i vettori e accedendo fuori dalla loro area di memoria.
+
+3) Simulate il passaggio a un metodo tramite puntatore
+(senza usare i metodi, fate puntare 2 puntatori alla stessa
+variabile e poi modificate il valore puntato da uno dei due puntatori e
+stampate i valori degli indirizzi e dei valori).

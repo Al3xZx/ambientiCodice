@@ -1,0 +1,9 @@
+questa è la linea 1 del file file5.txt
+questa è la linea 2 del file file5.txt
+questa è la linea 3 del file file5.txt
+questa è la linea 19 del file file5.txt
+questa è la linea 20 del file file5.txt
+questa è la linea 21 del file file5.txt
+questa è la linea 22 del file file5.txt
+questa è la linea 23 del file file5.txt
+questa è la linea 24 del file file5.txt

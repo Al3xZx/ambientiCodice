@@ -1,0 +1,2 @@
+in questo ci sono 0 parole con casa anzi adesso il numero di casa è diventato 2 ma se scrivo
+casa casa casa il numero è 5 dunque il totale delle occorrenze di casa è 6.

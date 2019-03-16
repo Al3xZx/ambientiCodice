@@ -1,0 +1,27 @@
+1.1) Il padre legge un intero lo passa al figlio che fa il quadrato del numero,
+     lo restituisce al padre che lo  stampa su schermo
+
+1.2) Il padre legge un array lo passa al figlio che fa il quadrato dei numeri,
+     lo restituisce al padre che lo  stampa su schermo.
+
+2) Il padre legge un vettore da tastiera, quindi crea 2 figli F1 e F2,
+   manda i numeri multipli di 2  al figlio F1, i multipli di 3 a F2.
+   F1 calcola la media dei multipli di 2, mentre F2 calcola il massimo dei multipli di 3.
+   Per semplicità si suppone che non esiste lo 0 fra i numeri letti.
+
+3) Svolgere l'esercizio 1 per N figli (considerare multipli di 2, 3 e 4, ......,N)
+    ogni figlio calcola la media  del multiplo.
+    3( Il padre legge un vettore da tastiera, quindi crea N figli,
+     ogni figlio calcola la media del multiplo (considerare multipli di 2, 3 e 4, ......,N;
+     F1 % 2, F2 % 3, F3 % 4,.........,FN % N))
+
+4)  Il padre legge un vettore da tastiera, quindi crea 2 figli F1 e F2.
+    Il padre passa i numeri positivi a F1 e i negativi a F2.
+    F1 calcola la media dei numeri positivi e la ritorna al padre che la stampa.
+    F2 crea un nipote N, gli passa i numeri positivi e N calcola il minimo dei numeri
+    negativi e lo ritorna a F2 che lo ritorna al padre che lo stampa.
+
+5) Il padre legge un vettore da tastiera lo partiziona in N parti in modo tale che 
+    N figli leggano la partizione i quali effettueranno la somma degli elementi
+    riguardanti la loro partizione e la invieranno al padre che sommerà le N somme
+    inviate dai figli e stamperà su schermo tale valore.

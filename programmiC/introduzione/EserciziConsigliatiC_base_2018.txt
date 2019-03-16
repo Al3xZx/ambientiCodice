@@ -1,0 +1,9 @@
+Svolgere i seguenti esercizi con e senza utilizzare i metodi.
+E' preferibile compilare con l'istruzione:
+gcc  -ansi  prova.c -o prova
+in modo da compilare con l'ANSI C
+
+1)  Verificare che un vettore sia composto da tutti numeri positivi e pari
+2) Verificare se un numero x (letto da tastiera) e' presente in un vettore
+3) Contare le occorrenze del numero 5 in un vettore
+4) Verificare che tutti gli elementi di un vettore V1 siano presenti in un vettore V2
