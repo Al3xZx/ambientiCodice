@@ -16,7 +16,7 @@ void prima(int* vett){/*non è possibile usare come parametro il vettore perchè
             verificato=0;
             break;
         }
-    }    
+    }
     printf("1)  Verificare che un vettore sia composto da tutti numeri positivi e pari\n");
     if(verificato)
         printf("il vettore verifica le proprietà\n");

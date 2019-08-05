@@ -1,0 +1,3 @@
+Questo file è un test per verificarw se lo script shell conta parole conta giuste le parole
+casa presete in questo file quindi fino ad ora avrebbe dovuto contare 1 sola volta la parola casa
+adesso 2 e quindi casa casa casa casa casa il risultato finale delle occorrenze di casa è 8
