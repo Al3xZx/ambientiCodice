@@ -19,7 +19,7 @@ prima di scrivervi i risultati.)*/
 #include <sys/wait.h>
 
 void codiceFiglio(int, int[][2]);
-void stampaFile(int fd);
+void stampaFile(int);
 
 int main(int argc, char const *argv[]) { /*fa->id=0; fb->id=1*/
     int id, pid, fd, i,status;
